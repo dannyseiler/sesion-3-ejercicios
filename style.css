@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(230, 230, 230);
+}
+
+img,
+video {
+  border-radius: 10px;
+}
+
+audio {
+  margin: 1em 0;
+}
